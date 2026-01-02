@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Narendra Kumar Yadav</h1>
+<h1 align="center">Hi, I'm Narendra Kumar Yadav</h1>
 <h3 align="center">Backend Developer | Full-Stack Developer | Machine Learning Engineer | AI Enthusiast</h3> 
 
 I’m a passionate developer who enjoys building scalable backend systems, exploring machine learning, and experimenting with modern web technologies. I love solving problems, learning continuously, and turning ideas into real-world applications.
