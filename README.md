@@ -14,16 +14,18 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 - Believe in *clean code, consistency, and continuous improvement*
  
  
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/inarendrakyadav/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/inarendrakyadav/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:inarendrakyadav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
 </p>
 
 </p>
