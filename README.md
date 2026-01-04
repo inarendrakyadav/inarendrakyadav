@@ -12,7 +12,9 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 - Actively solving problems on **LeetCode**  
 - Currently improving skills in **System Design, ML models, and Full-Stack Development**  
 - Believe in *clean code, consistency, and continuous improvement*
- 
+
+ ---
+ ##   Connect with Me
  
 <p align="center">
   <a href="https://leetcode.com/u/inarendrakyadav/">
