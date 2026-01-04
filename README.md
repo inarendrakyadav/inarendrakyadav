@@ -25,8 +25,6 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-inarendrakyadav@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail"/>
-  </a>
+
 </p>
 
