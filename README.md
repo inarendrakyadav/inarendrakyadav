@@ -14,22 +14,17 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 - Believe in *clean code, consistency, and continuous improvement*
  
  
-## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/inarendrakyadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/inarendrakyadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:inarendrakyadav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/inarendrasyadav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail"/>
   </a>
 </p>
+
