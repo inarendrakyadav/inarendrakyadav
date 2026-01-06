@@ -35,7 +35,7 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/code-activity.png" 
+  <img src="https://raw.githubusercontent.com/inarendrakyadav/leetcode/main/code-activity.png" 
        alt="GitHub Activity Overview" 
        width="500"/>
 </p>
