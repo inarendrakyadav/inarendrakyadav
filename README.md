@@ -32,12 +32,6 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 
 </p>
 
-## 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/inarendrakyadav/inarendrakyadav/main/code-activity.png" 
-       alt="GitHub Activity Overview" 
-       width="500"/>
-</p>
+ 
 
 
