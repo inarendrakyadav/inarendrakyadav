@@ -29,7 +29,8 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/inarendrakyadav?theme=dark&font=Karma&ext=contest)
+
 
 <br/>  
 <br/>  
