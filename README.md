@@ -35,9 +35,7 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 <br/>  
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=inarendrakyadav&&style=flat-square" align="center" />
-</div>  
+ 
   
 
 <br/>  
