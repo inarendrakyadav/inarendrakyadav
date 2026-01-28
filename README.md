@@ -3,7 +3,7 @@
 
 I’m a passionate developer who enjoys building scalable backend systems, exploring machine learning, and experimenting with modern web technologies. I love solving problems, learning continuously, and turning ideas into real-world applications.
 
----
+--
 
 ##  About Me
 
