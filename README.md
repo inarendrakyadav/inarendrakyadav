@@ -7,7 +7,7 @@ I’m a passionate developer who enjoys building scalable backend systems, explo
 
 ##  About Me
 
-- Computer Science student & lifelong learner  
+- Computer Science student & lifelong learner.
 - Interested in **Backend Development**, **Machine Learning**, and **Generative AI**  
 - Actively solving problems on **LeetCode**  
 - Currently improving skills in **System Design, ML models, and Full-Stack Development**  
